@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Guilherme Ailton e sou desenvolvedor</h2>
+<h2 align="left">Olá 👋! Meu nome é Guilherme Ailton e sou desenvolvedor back-end</h2>
 
 ###
 
@@ -8,11 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="boneco animado" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="logo javascript"  />
   <img width="12" />
@@ -38,5 +33,3 @@
 
 ###
 
-<br clear="both">
-###
