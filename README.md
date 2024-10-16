@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Guilherme Ailton e sou desenvolvedor, de [insira sua cidade/país].</h2>
+<h2 align="left">Olá 👋! Meu nome é Guilherme Ailton e sou desenvolvedor</h2>
 
 ###
 
@@ -18,15 +18,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="logo typescript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="logo react"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="logo html5"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="logo css3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="logo csharp"  />
 </div>
 
 ###
